@@ -50,7 +50,7 @@ _Para poder desarrollar el proyecto es necesario instalar las bases de datos y u
 
 - Sql server: El lenguaje de desarrollo utilizado es Transact-SQL, una implementación del estándar ANSI del lenguaje SQL, utilizado para manipular y recuperar datos, tablas y definir relaciones entre ellas. 
 
-
+### PROCESO
  ### Bases NO SQL 
 
 - CouchDB: Gestor de base de datos cuyo foco está puesto en la facilidad de su uso y en ser “una base de datos que asume la web de manera completa”. 
